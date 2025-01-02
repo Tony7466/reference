@@ -141,6 +141,7 @@ Reference provides cheat sheets for the following:
 <details>
 <summary>Python</summary>
 
+- [Python](https://www.pythoncheatsheet.org): [Python](https://www.python.org) this is the Python programming language.
 - [NumPy](https://cheatsheets.zip/numpy.html): [NumPy](https://numpy.org/) is the fundamental package for scientific
   computing with Python. This cheat sheet is a quick reference for NumPy beginners.
 
